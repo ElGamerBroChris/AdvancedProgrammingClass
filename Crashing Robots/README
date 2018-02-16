@@ -1,0 +1,11 @@
+Christian Miranda Espinoza A01223255
+
+Crashing Robots
+
+In a modernized warehouse, robots are used to fetch the goods. Careful planning is needed to ensure that the robots reach their destinations without crashing into each other. 
+Of course, all warehouses are rectangular, and all robots occupy a circular floor space with a diameter of 1 meter. 
+Assume there are N robots, numbered from 1 through N. You will get to know the position and orientation of each robot, and all the instructions, which are carefully (and mindlessly) followed by the robots.
+Instructions are processed in the order they come.
+No two robots move simultaneously; a robot always completes its move before the next one starts moving.
+
+A robot crashes with a wall if it attempts to move outside the area of the warehouse, and two robots crash with each other if they ever try to occupy the same spot.
